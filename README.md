@@ -44,17 +44,9 @@ Tools & Others
 
 ---
 
-📊 GitHub Stats
-
-"stats" (https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-
-"top-langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
-
----
-
 📫 Contact
 
-Telegram: @username
+Telegram: @Ayubxon2827
 
 ---
 
