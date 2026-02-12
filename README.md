@@ -32,8 +32,6 @@ Tools & Others
 - Git & GitHub
 - REST API
 - Responsive Design
-- Clean Code principles
-
 ---
 
 📈 Currently Improving
