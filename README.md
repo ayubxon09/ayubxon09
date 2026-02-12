@@ -1,16 +1,61 @@
-## Hi there 👋
+### Hi 👋 I'm Ayubxon
 
-<!--
-**ayubxon09/ayubxon09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer (React)
 
-Here are some ideas to get you started:
+I build modern and responsive web applications using React ecosystem.
+I enjoy learning new technologies and constantly improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 About Me
+
+- 💻 Frontend developer focused on React
+- ⚡ I can work with APIs using documentation
+- 📚 Always learning useful technologies for growth
+- 🎯 Goal: Become a strong and professional Software Engineer
+
+---
+
+🛠 Tech Stack
+
+Frontend
+
+- HTML
+- CSS
+- SCSS / SASS
+- JavaScript (ES6+)
+- React
+- Redux
+
+Tools & Others
+
+- Git & GitHub
+- REST API
+- Responsive Design
+- Clean Code principles
+
+---
+
+📈 Currently Improving
+
+- Advanced React patterns
+- Performance optimization
+- Architecture & best practices
+
+---
+
+📊 GitHub Stats
+
+"stats" (https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+
+"top-langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+📫 Contact
+
+Telegram: @username
+
+---
+
+⭐ Always learning & building
