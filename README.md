@@ -44,7 +44,7 @@ Tools & Others
 
 📫 Contact
 
-Telegram: @Ayubxon2827
+Telegram: @Solih_bola_01
 
 ---
 
